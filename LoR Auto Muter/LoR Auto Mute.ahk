@@ -15,7 +15,7 @@ ResolutionScaleY := [.53,.75, 1]
 EmoteList := ["pics\emote-mute-icon-only-768p.png","pics\emote-mute-icon-only-1080p.png","pics\emote-mute-icon-only-1440p.png"]
 
 Emote := 1
-imageVariation :=  140 
+imageVariation :=  75
 
 BaseDelay := 500
 
